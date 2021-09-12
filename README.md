@@ -25,7 +25,7 @@ Y si no tienen la version 3+ podrán descargarlo [aqui](https://www.python.org).
 ```bash
 pip install jupyter
 ```
-Nota: 3+ es solo referencia a cualquier version de python3 (.7, .8 o .9)
+Nota: 3+ es solo referencia a cualquier version de python3 (.7, .8, .9, etc)
 
 Si esto solo les instala Jupyter con Python 2 deberán escribir `pip3` en lugar de `pip`.
  
