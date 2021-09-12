@@ -18,7 +18,7 @@ Nota: Anaconda es un programa pesado, si su computadora cuenta con recursos un p
 Es mucho más sencillo ya que sólo deberán asegurarse que tengan instalado python 3+. Para revisar su versión de Python en la terminal deberán escribir:
 
 ```bash
-python  - v
+python  --version
 ```
 Y si no tienen la version 3.7 podrán descargarlo [aqui](https://www.python.org). Una vez que lo tengan instalado, en su terminal deberán escribir:
 
