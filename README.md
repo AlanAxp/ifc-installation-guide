@@ -20,11 +20,12 @@ Es mucho más sencillo ya que sólo deberán asegurarse que tengan instalado pyt
 ```bash
 python  --version
 ```
-Y si no tienen la version 3.7 podrán descargarlo [aqui](https://www.python.org). Una vez que lo tengan instalado, en su terminal deberán escribir:
+Y si no tienen la version 3+ podrán descargarlo [aqui](https://www.python.org). Una vez que lo tengan instalado, en su terminal deberán escribir:
 
 ```bash
 pip install jupyter
 ```
+Nota: 3+ es solo referencia a cualquier version de python3 (.7, .8 o .9)
 
 Si esto solo les instala Jupyter con Python 2 deberán escribir `pip3` en lugar de `pip`.
  
