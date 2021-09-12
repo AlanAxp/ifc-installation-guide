@@ -43,13 +43,17 @@ Julia deberá ser descargado de su [página oficial](https://julialang.org) y un
 
 1. Abrir la terminal de julia
 2. Escribir en consola:
+
     ```julia
     using Pkg
     ```
+    
 3. Finalmente escribir: 
+
     ```julia
     Pkg.add("IJulia")
     ```
+    
 ### Ubuntu
 
 Les recomiendo seguir algún video tutorial en youtube en lo que encuentro el tiempo para escribir este apartado :v .
