@@ -35,7 +35,7 @@ Sin embargo la instalación es sólo un poco más complicada, además, Anaconda 
  
 ## Julia Language
  
-Julia a diferencia de python, no es un lenguaje interpretado, es "compilado", precisamente Julia usa un compilador Just In Time (JIT) al que se hace referencia como "Just Ahead Of Time" (JAOT) en la comunidad , ya que Julia compila todo el código (por defecto) en código de máquina antes de ejecutarlo., lo que lo hace mucho mas veloz y eficiente que python. Sin embargo, al igual que python, mantiene una sintaxis muy cómoda y simple.
+Julia a diferencia de python, no es un lenguaje interpretado, es "compilado", precisamente Julia usa un compilador Just In Time (JIT) al que se hace referencia como "Just Ahead Of Time" (JAOT) en la comunidad , ya que Julia compila todo el código (por defecto) en código de máquina antes de ejecutarlo, lo que lo hace mucho mas veloz y eficiente que python. Sin embargo, al igual que python, mantiene una sintaxis muy cómoda y simple.
 
 Julia deberá ser descargado de su [página oficial](https://julialang.org) y una vez que ya tengan Jupyter notebook instalado, podrán añadirlo al notebook con las siguientes instrucciones
 
