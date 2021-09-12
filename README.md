@@ -11,6 +11,12 @@ Para su instalación:
 Deben descargar anaconda desde su [sitio oficial](https://www.anaconda.com/distribution/).
 Esta vendrá con un instalador según su SO y dado que son usuarios expertos de cada sistema, seguro lo harán sin problemas.
 
+Importante: Activar la casilla 
+
+```bash
+Add anaconda to the system PATH environment variable
+```
+
 Nota: Anaconda es un programa pesado, si su computadora cuenta con recursos un poco mas limitados, se recomienda usar *miniconda*
  
 * Linux
